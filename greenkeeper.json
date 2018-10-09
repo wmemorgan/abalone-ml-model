@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "reports/reveal.js/package.json"
+      ]
+    }
+  }
+}
